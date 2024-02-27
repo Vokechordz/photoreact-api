@@ -1,0 +1,1 @@
+mongodb+srv://Vokechordz:<password>@cluster0.8gfdcug.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
